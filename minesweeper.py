@@ -99,7 +99,7 @@ while Q :
 			continue
 		if tot==minesNum :
 			lvl+=1
-			print("Party won ! Upgrade to level >>>>>", lvl)
+			print("Party won ! Upgrade to level >>>>>", lvl-3)
 			break
 
 
